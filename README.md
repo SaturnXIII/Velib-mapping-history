@@ -15,9 +15,12 @@ Une fois les historiques récupérés, j’enregistre les coordonnées des stati
 Enfin, je produis une carte interactive en HTML… et voilà !
 ### 
 ## Utilisation :
+<br>
 
 ⚠️ Avant tout, il faut télécharger dans le dossier ressources :
+<br>
 Les quartier a telecharger en .geojson : https://opendata.paris.fr/explore/dataset/quartier_paris/export/?disjunctive.c_ar
+<br>
 Les emplacements des stations velib en csv : https://opendata.paris.fr/explore/dataset/velib-emplacement-des-stations/export/
 ### Automatique :
 
