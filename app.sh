@@ -15,7 +15,7 @@ python3 web-maker.py
 echo "🌐 Fin d'exécution de web-maker.py" | lolcat
 
 echo "Lancement de stats.py..."
-python3 web-maker.py
+python3 stats.py
 echo "Fin d'exécution de stats.py" | lolcat
 
 
