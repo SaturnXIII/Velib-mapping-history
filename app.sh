@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "Installation des dépendances..." | lolca
+echo "Installation des dépendances..." | lolcat
 pip install -r requirements.txt
 echo "Lancement de api/analyze.py..." | lolcat
 cd api
