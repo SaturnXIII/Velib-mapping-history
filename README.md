@@ -9,6 +9,23 @@ __     __   _ _ _     _
                         
 Votre carte velib' est disponible dans le dossier output ✨
 ```
+
+
+
+
+
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/71b1f1df-45f1-4cdd-a49f-1c11e4a23cdf"  style="width: 48%; margin-bottom: 10px;">
+  <img src="https://github.com/user-attachments/assets/cabb9f6c-46ac-4e42-a7a1-1d622720b204" style="width: 48%; margin-bottom: 10px;">
+</div>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/efac3058-5090-445d-b84a-94c1c53075ee"  style="width: 48%; margin-bottom: 10px;">
+  <img src="https://github.com/user-attachments/assets/8ecd5b62-39ad-4875-b7d5-0d5b00f4721c" style="width: 48%; margin-bottom: 10px;">
+  <img src="https://github.com/user-attachments/assets/21636774-8def-49cb-9ce0-1def64750e13"  style="width: 48%; margin-bottom: 10px;">
+
+</div>
+
 ## Fonctionement : 
 Il faut dans un premier temps récupérer les historiques de trajets liés à un compte. Sur cette étape, je ne peux pas vous aider directement. Je peux simplement vous dire qu’il est possible de les obtenir via l’API interne de Vélib’. Je ne vous incite pas à le faire, car cela est illégal et non éthique. Ce projet a uniquement été réalisé dans un but éducatif.
 Une fois les historiques récupérés, j’enregistre les coordonnées des stations de départ et d’arrivée grâce à l’API publique de Vélib’. Ensuite, je génère des itinéraires entre ces points. Bien sûr, ces trajets ne sont pas exacts, car nous ne connaissons que les stations de départ et d’arrivée — mais c’est la meilleure estimation possible avec les données disponibles.
