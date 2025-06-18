@@ -1,5 +1,6 @@
 #!/bin/sh
-
+echo "Installation des dépendances..." | lolca
+pip install -r requirements.txt
 echo "Lancement de api/analyze.py..." | lolcat
 cd api
 python3 analyze.py
