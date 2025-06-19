@@ -36,7 +36,7 @@ Enfin, je produis une carte interactive en HTML… et voilà !
 
 ⚠️ Avant tout, il faut télécharger dans le dossier ressources :
 <br>
-Les quartier a telecharger en .geojson : https://opendata.paris.fr/explore/dataset/quartier_paris/export/?disjunctive.c_ar
+Les quartier a telecharger en .geojson : https://opendata.paris.fr/explore/dataset/quartier_paris/export/?disjunctive.c_ar et renommer en quartiers.geojson
 <br>
 Les emplacements des stations velib en csv : https://opendata.paris.fr/explore/dataset/velib-emplacement-des-stations/export/
 ### Automatique :
